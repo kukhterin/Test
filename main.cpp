@@ -13,7 +13,7 @@ public:
   {}
   void getdist()
   {
-    cout << "\n число фунтов: ";
+    cout << "\n число футов: ";
     cin >> feet;
     cout << "\n число дюймов: ";
     cin >> inches;
