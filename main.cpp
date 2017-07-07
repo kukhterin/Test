@@ -13,9 +13,9 @@ public:
   {}
   void getdist()
   {
-    cout << "\nВведите число фунтов: ";
+    cout << "\n число фунтов: ";
     cin >> feet;
-    cout << "\nВведите число дюймов: ";
+    cout << "\n число дюймов: ";
     cin >> inches;
   }
   void show_distance()
